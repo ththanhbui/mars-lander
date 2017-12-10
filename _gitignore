@@ -1,0 +1,37 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+lander
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+*.so
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Project files
+*.project
+*.geany
+*.projects
+lander_project
+*.csv
+octave-workspace
